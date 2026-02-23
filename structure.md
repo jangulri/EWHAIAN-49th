@@ -1,5 +1,5 @@
 # FAQ Page Structure (이화이언 자주 묻는 질문)
-
+```
 Page
 └─ header
    ├─ nav
@@ -37,3 +37,4 @@ Page
        │   └─ p  (A. 답변 내용)
 
 └─ footer
+```
